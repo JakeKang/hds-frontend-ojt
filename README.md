@@ -6,6 +6,8 @@
 
 ```
 /frontend-training
+├── basic-blog/                      # 블로그 예제
+├── basic-todo-list/                 # 투두리스트 예제
 ├── 1.Basic Blog Guide.md            # 블로그 구현 가이드
 ├── 2.Basic Todo List Guide.md       # 투두리스트 구현 가이드
 ```
